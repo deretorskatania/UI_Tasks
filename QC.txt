@@ -1,0 +1,27 @@
+1.Button "Save" must be grey and istead of pointer must be cursor
+2.The dialog menu should be after pressing button;
+3.As the field is disabled you can't write anything;
+4.After press;
+5.There should be 2 raddio buttons.
+6. 2 radio buttons:1)no thanks *All Checkbox.Enabled = FALSE;
+	           2)for checkboxList*CheckCount ==2 then disable another checkbox,
+				           !=2 & no thanks!=TRUE no PASS;
+7.Checkbox "Discard" is useless;
+8.2 radioButtons(Portrait and Landscape)
+9.One CheckBox "Don't show this again";
+10.CheckBoxes should bebetter in column;
+11.Current 3status:current default,yes,no;
+12.Use progressbar instead of checkbox;
+13.No, because there should be button "Submit".
+14.no
+15.no
+16.Inccorrect display. When "highest restriction" is choosed all checkboxes should be marked;
+17.Leave 3 radio buttons: "Let decide...", "In new window","In new tab" or drop-down menu;
+18.Delete words "align","Alignment" 
+19.It's okey, but also drop-down menu is a good decision.
+20.Text box should be disabled, unless the radio button is marked;
+21.It is a box with some options, one or more from which can be selected.
+   Combo-box has a filed to type a value or choose it from the list.
+   Drop-down list drops down a list of options when it is activated
+22.Choose it from the option list
+23.ComboBox with EditBox                                                                                                              
